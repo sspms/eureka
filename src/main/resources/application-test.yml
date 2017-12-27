@@ -1,0 +1,3 @@
+eureka:
+  instance:
+    hostname:172.16.201.108
